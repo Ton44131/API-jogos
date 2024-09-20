@@ -1,0 +1,93 @@
+[
+    {
+        "nome": "The Witcher 3: Wild Hunt",
+        "genero": " Gênero <br> RPG de ação com elementos de fantasia e mundo aberto.",
+        "sinopse": "Sinopse <br> Geralt de Rivia, um caçador de monstros, busca sua filha adotiva em um vasto mundo dominado por uma ameaça sobrenatura",
+        "plataformas": "Preço <br> R$40,00",
+        "imagem": "<img src='https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png' width='300px'>",
+        "quantosJogadores": " Jogadores <br> Principalmente um jogador, com elementos de mundo aberto para exploração individual.",
+        "estudio": " Estúdio <br> CD Projekt Red"
+    
+    },
+    {
+        "nome":  "The Legend of Zelda: Breath of the Wild",
+        "genero": "Genero <br> Ação e aventura com elementos de mundo aberto e exploração.",
+        "sinopse": "Sinopse <br> Link acorda de um sono profundo para enfrentar uma calamidade antiga e salvar o reino de Hyrule.",
+        "plataformas": "plataforma <br >Nintendo Switch, Wii U",
+        "imagem": "<img src='https://upload.wikimedia.org/wikipedia/pt/0/0f/Legend_of_Zelda_Breath_of_the_Wild_capa.png' width='300px'>",
+        "quantosJogadores": "Jogadores <br>Principalmente um jogador, com vastas áreas para explorar.",
+        "estudio": "Estúdio<br>Nintendo"
+    },
+    {
+        "nome": "Bayonetta",
+        "genero": "Genero <br> Hack and slash com combate rápido e estilizado.",
+        "sinopse": "Sinopse <br> Bayonetta, uma bruxa com habilidades sobrenaturais, luta contra anjos e demônios para descobrir seu passado.",
+        "plataformas": "Plataforma <br>PC, PlayStation 3, Xbox 360, Nintendo Switch",
+        "imagem":  "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmABQDGeiHDs74y8ACie_T4LPS30C0A6pUGQ&s' width='300px'>",
+        "quantosJogadores": "Jogadores <br>Principalmente um jogador.",
+        "estudio": "Estudio <br> PlatinumGames"
+    },
+    {
+        "nome": "Devil May Cry 5",
+        "genero": "Genero <br>Hack and slash com combate dinâmico e estilizado.",
+        "sinopse": "Sinopse<br>Dante e Nero enfrentam uma invasão demoníaca enquanto buscam por vingança e redenção.",
+        "plataformas": "Plataformas<br>PC, PlayStation 4, Xbox One",
+        "imagem": "<img src='https://image.api.playstation.com/vulcan/ap/rnd/202009/1710/UUnpHLJqLAIJX5HioswiPuAm.png'width='300px'>",
+        "quantosJogadores": "Jogadores <br> Principalmente um jogador.",
+        "estudio": "Estudio<br>Capcom"
+    },
+    {
+        "nome": "God of War Ragnarok",
+        "genero": "Genero <br> Ação e aventura com elementos de mitologia nórdica.",
+        "sinopse": "Sinopse <br> Kratos e seu filho Atreus enfrentam novas ameaças enquanto exploram o mundo da mitologia nórdica.",
+        "plataformas": "Plataformas<br>PlayStation 4, PlayStation 5",
+        "imagem":"<img src='https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png'width='300px'>",
+        "quantosJogadores": "Jogadores <br> Principalmente um jogador.",
+        "estudio": "Estudio <br> Santa Monica Studio"
+    },
+    {
+        "nome": "The Last of Us",
+        "genero": "Generos <br> Ação e aventura com elementos de sobrevivência e narrativa profunda.",
+        "sinopse": "Sinopse<br>Joel e Ellie lutam para sobreviver em um mundo pós-apocalíptico infestado por criaturas infectadas.",
+        "plataformas": "Plataforma<br>PlayStation 3, PlayStation 4, PC",
+        "imagem": "<img src='https://upload.wikimedia.org/wikipedia/pt/b/be/The_Last_of_Us_capa.png'width='300px'>",
+        "quantosJogadores": "Jogadores <br>Principalmente um jogador.",
+        "estudio": "Estudio<br>Naughty Dog"
+    },
+    {
+        "nome": "Splatoon 2",
+        "genero": "Generos<br>Tiro em terceira pessoa com foco em batalhas de tinta e estratégia.",
+        "sinopse": "Sinopse <br> Equipes de Inkling competem para cobrir o máximo de área possível com tinta durante batalhas frenéticas.",
+        "plataformas": "Plataforma<br>Nintendo Switch",
+        "imagem": "<img src='https://oyster.ignimgs.com/mediawiki/apis.ign.com/splatoon-2/5/55/Splatoon2.jpg'width='300px'>",
+        "quantosJogadores": "Jogadores<br>Multiplayer local e online.",
+        "estudio": "Estudio<br>Nintendo"
+    },
+    {
+        "nome": "Minecraft",
+        "genero": "Generos <br>Sandbox de construção e sobrevivência com mundo aberto e pixelado.",
+        "sinopse": "Sinopse <br> Os jogadores exploram um mundo gerado proceduralmente, coletam recursos e criam suas próprias construções e aventuras.",
+        "plataformas": "Plataforma<br>PC, PlayStation 4, Xbox One, Nintendo Switch, mobile e outras.",
+        "imagem": "<img src='https://upload.wikimedia.org/wikipedia/pt/9/9c/Minecraft_capa.png'width='300px'>",
+        "quantosJogadores": "Jogadores<br>Multiplayer local e online.",
+        "estudio": "Estudio<br>Mojang Studios"
+    },
+    {
+        "nome": "Hollow Knight",
+        "genero": "Generos <br>Metroidvania com combate desafiador e exploração.",
+        "sinopse": "Sinopse <br>O Cavaleiro explora um vasto e misterioso reino subterrâneo enquanto enfrenta inimigos e descobre segredos.",
+        "plataformas": "Plataforma<br>PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "imagem": "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjsDQDH184s94zjVLP7jO6K7dhpA5FcslDxg&s'width='300px'>",
+        "quantosJogadores": "Principalmente um jogador.",
+        "estudio": "Estudio<br>Team Cherry"
+    },
+    {
+        "nome": "Undertale",
+        "genero": "Generos <br>RPG com escolhas morais e um sistema de combate único.",
+        "sinopse": "Sinopse <br>O jogador controla um humano que cai no subsolo e deve decidir como interagir com os monstros que encontra.",
+        "plataformas": "Plataforma<br>PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "imagem": "<img src='https://www.vgdb.com.br/gf/fotos/games/media_68601/----undertale-68601.jpg'width='300px'>",
+        "quantosJogadores": "Principalmente um jogador.",
+        "estudio": "Estudio<br>Toby Fox"
+    }
+]
